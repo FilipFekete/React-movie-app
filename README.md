@@ -1,12 +1,32 @@
-# React + Vite
+# 🎬 **Movie Explorer**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern movie discovery web app built with **Vite + React**, featuring **trending movies based on real searches** from users.  
+Searches are stored using **Appwrite**, and movie data is fetched from the **TMDB API**.  
 
-Currently, two official plugins are available:
+This project demonstrates how to combine **frontend performance**, **scalable backend services**, and **external APIs** into a seamless user experience.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 **Features**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 **Search movies in real time** using TMDB API  
+- 📈 **Trending section** powered by actual user searches stored in Appwrite  
+- 🎨 **Responsive UI** with Tailwind CSS  
+- ⚡ **Fast workflow** using Vite + React (with HMR)  
+- 🧩 **Reusable hooks & cleaner state management** with `react-use`  
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 🎨 **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![React-use](https://img.shields.io/badge/React--use-000000?style=for-the-badge&logo=react&logoColor=white)  
+
+### 🗄️ **Backend**
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)  
+
+### 🌍 **External API**
+![TMDB](https://img.shields.io/badge/TMDB-01D277?style=for-the-badge&logo=tmdb&logoColor=white)  

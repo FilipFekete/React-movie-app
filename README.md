@@ -5,6 +5,10 @@ Searches are stored using **Appwrite**, and movie data is fetched from the **TMD
 
 This project demonstrates how to combine **frontend performance**, **scalable backend services**, and **external APIs** into a seamless user experience.  
 
+Deployed at: [**Live Demo**](https://ai-resume-analyzer-sigma-liard.vercel.app) 🌐   
+
+> ⚡ The app is **deployed using Vercel** to showcase its basic capabilities and provide a smooth live demo experience.
+
 ---
 
 ## 🚀 **Features**

@@ -5,7 +5,7 @@ Searches are stored using **Appwrite**, and movie data is fetched from the **TMD
 
 This project demonstrates how to combine **frontend performance**, **scalable backend services**, and **external APIs** into a seamless user experience.  
 
-Deployed at: [**Live Demo**](https://react-movie-app-one-ecru.vercel.app/) 🌐   
+Deployed at: [**Live Demo**](https://react-movie-app-one-ecru.vercel.app/) 🌐 !!!temporarily stopped due to vercel breach
 
 > ⚡ The app is **deployed using Vercel** to showcase its basic capabilities and provide a smooth live demo experience.
 
